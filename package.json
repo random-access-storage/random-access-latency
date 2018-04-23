@@ -1,0 +1,25 @@
+{
+  "name": "random-access-latency",
+  "version": "0.0.0",
+  "description": "A random-access-storage instance that wraps another one and adds latency",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "random-access-storage": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/random-access-storage/random-access-latency.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/random-access-storage/random-access-latency/issues"
+  },
+  "homepage": "https://github.com/random-access-storage/random-access-latency"
+}
